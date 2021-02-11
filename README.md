@@ -21,16 +21,14 @@
 
 To enhance the understanding code for data gene expression analysis in Bioinformatics. In this lab, you will learn to read basic plots and to understand the code that produced the plots. You will also understand and reflect on the ethical considerations in gene expression analysis.
 
-![missing picture](link)
-
-Figure 1: The NCI60 data set was was developed by the National Cancer Institute in the 1980’s to allow for the study of potential anti-cancer drugs. Concerns probes, which are used to detect molecular compounds, monitor cellular activity, and to deliver therapy in cells, the data allows researchers to investigate potential anti-cancer drugs in a wide variety of cell lines which have been organized (i.e., arrogated) by types of cancer.
-
 ## Reading Assignment
 
 Please read Chapters assigned for this week’s lessons which you will find in the class slides, in addition to reviewing your notes. Please take some time to gain experience with using Markdown to write your work. See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for more details about Markdown. In addition, you may consult your notes on the talk given by Dr. Thu of the Department of Biology who discussed motivations and methods for the study of gene expression data.
 
 Part of the motivation for this lab may be found in the YouTube video that discusses the gene expressions of Planarian worms at the following link: https://www.youtube.com/watch?v=roZeOBZAa2Q. Much of the knowledge that we have about the curious genetics of the stem cell
 function in these organisms was the result of gene expression analysis. Interested readers are invited to learn more about the biology of stem cell growth and regeneration in Planarians from S´anchez *et al* [1].
+
+The NCI60 data set was was developed by the National Cancer Institute in the 1980’s to allow for the study of potential anti-cancer drugs. Concerns probes, which are used to detect molecular compounds, monitor cellular activity, and to deliver therapy in cells, the data allows researchers to investigate potential anti-cancer drugs in a wide variety of cell lines which have been organized (i.e., arrogated) by types of cancer.
 
 ## GitHub Starter Link
 
